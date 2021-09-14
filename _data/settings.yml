@@ -29,23 +29,23 @@ client:
 
 CTAs:
   first_CTA_text: Loan Application
-  first_CTA_URL: https://myaccount.guildmortgage.com/officers/chantryabbott/apply-online/?v=2
-  second_CTA_text: Contact
-  second_CTA_URL: /contact/
+  first_CTA_URL: http://www.stoutabbott.com/
+  second_CTA_text: Free Consultation
+  second_CTA_URL: https://calendly.com/guildmortgage/phone_consultation
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Need a Home Loan?"
     CTA_text: Apply for a loan through Sponsor, Guild Mortgage
     CTA_link_text: "Apply Now"
-    CTA_url: https://myaccount.guildmortgage.com/guild-home/apply-online/sign-up/
+    CTA_url: http://www.stoutabbott.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Get in Touch"
-    CTA_text2: "Have questions or need to get in touch with us?"
-    CTA_link_text2: "Contact Us"
-    CTA_url2: /contact/
+    CTA_title2: "Free Consultation"
+    CTA_text2: "Book a 15-20 Minute Phone Consultation"
+    CTA_link_text2: "Book"
+    CTA_url2: https://calendly.com/guildmortgage/phone_consultation
 
 lender:
   show_section: true

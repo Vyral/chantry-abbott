@@ -48,7 +48,7 @@ second_sidebar_CTA:
     CTA_url2: https://calendly.com/guildmortgage/phone_consultation
 
 lender:
-  show_section: true
+  show_section: false
   header_text: The Simplifying Real Estate Show is sponsored by Guild Mortgage
   headshot_path:
   logo_path: /img/lender-logo.png

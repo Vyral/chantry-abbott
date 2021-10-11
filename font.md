@@ -10,3 +10,13 @@
     <h2>This font is awesome</h2>
 </body>
 </html>
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(ArianaVioleta-dz2K.ttf);
+}
+  
+h2 {
+    font-family: myFirstFont;
+    color: darkgreen;
+}

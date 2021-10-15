@@ -12,20 +12,20 @@ custom_links_new_tab:
 
 client:
   name: Chantry Abbott
-  title:
-  license_number:
+  title: Team Leader and Sales Manager
+  license_number: 'NMLS ID# 309670'
   about_markdown: |
     Chantry has been a residential loan officer since 2007. He specializes in educating and informing his clients about loan qualifying strategies, and choosing the best loan program for them. Chantry and his team can assist you buy a home, build a home, refinance your current mortgage, or obtain a reverse mortgage. Even if your not ready to apply for a loan today we would love to answer your questions, or help you make a strategy for the future.
   brand:
   brokerage:
   market: St. George
-  address: 1224 S. River Rd., Suite A102 & A200<br>St. George, UT 84790
+  address: 1224 S. River Rd.<br>Suite A102 & A200<br>St. George, UT 84790
   phone: 435-674-1090 ext. 105
-  phone_type:
+  phone_type: O
   phone2:
   phone2_type:
   email: chantrya@guildmortgage.net
-  url: http://www.stoutabbott.com
+  url: http://guildmortgage/chantryabbott
 
 CTAs:
   first_CTA_text: Loan Application
@@ -104,7 +104,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
+  shadow_color: transparent
 
 buttons:
   button_radius_number: 0

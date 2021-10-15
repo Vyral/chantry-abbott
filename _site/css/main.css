@@ -1385,6 +1385,29 @@ html[xmlns] .flexslider .slides {
   padding-right: 15px;
   padding-left: 15px; }
 
+.navbar-left {
+  margin-top: 2rem; }
+
+.navbar-right {
+  margin-top: 2rem; }
+  .navbar-right a {
+    font-weight: bold; }
+
+.nav-logo {
+  float: left !important;
+  max-width: 150px;
+  padding: 10px; }
+
+@media (max-width: 740px) {
+  .nav-logo {
+    display: none; }
+
+  .hero-img {
+    height: 300px; }
+
+  .nav-logo-small {
+    max-width: 90px;
+    margin-top: -13px; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1455,7 +1478,8 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem; }
+  padding-top: 10rem;
+  height: 400px; }
 
 #hero {
   background-position: center;
@@ -1467,11 +1491,11 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 30rem;
-  filter: drop-shadow(0px 2px 7px black); }
+  filter: drop-shadow(0px 2px 7px transparent); }
 
 .site-title {
   color: #ffffff;
-  text-shadow: 0px 2px 7px black;
+  text-shadow: 0px 2px 7px transparent;
   text-transform: uppercase;
   font-size: 3rem;
   font-weight: bold;
@@ -1935,7 +1959,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px black; }
+  text-shadow: 0px 2px 7px transparent; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1948,7 +1972,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px black;
+  text-shadow: 0px 2px 7px transparent;
   margin-bottom: 1rem; }
 
 .tag {
@@ -1959,7 +1983,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px black;
+  text-shadow: 0px 2px 7px transparent;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2661,7 +2685,7 @@ form select {
   max-width: 30rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  filter: drop-shadow(0px 2px 7px black); }
+  filter: drop-shadow(0px 2px 7px transparent); }
 
 .page-hero-img {
   background-position: center;

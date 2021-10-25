@@ -6,7 +6,7 @@ tags:
     - Home Buyer Tips
 excerpt: Here’s how our Credit Approval Protection Program can help you win.
 enclosure: >-
-    https://vyralmarketing.s3.amazonaws.com/Chantry+Abbott/Videos/Our+Credit+Approval+Protection+Program.mp4
+    https://vyralmarketing.s3.amazonaws.com/Chantry+Abbott/Videos/How+Our+Credit+Approval+Protection+Program+Works.mp4
 pullquote: With this program, the legwork on your loan is done ahead of time.
 enclosure_type: video/mp4
 enclosure_time:

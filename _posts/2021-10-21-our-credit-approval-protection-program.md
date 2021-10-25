@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Credit Approval Protection Program
+title: How Our Credit Approval Protection Program Works
 date: 2021-10-21 23:00:41
 tags:
     - Home Buyer Tips

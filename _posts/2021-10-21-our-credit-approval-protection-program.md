@@ -30,4 +30,4 @@ Our Credit Approval Protection Program helps you make a strong offer to the sell
 
 It’s a really neat solution, and our buyers are winning against cash offers with it. If you have any questions about the program or anything else related to mortgages, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
 
-*NMLS ID \#309670, I am authorized to do business in the state of Utah. Guild Mortgage Company; Equal Housing Opportunity; NMLS \#3274. nmlsconsumeraccess.org. All loans subject to underwriter approval. Terms and conditions apply, subject to change without notice. For more licensing information, please visit Licensing.*
+*NMLS ID \#309670, I am authorized to do business in the state of Utah. Guild Mortgage Company; Equal Housing Opportunity; NMLS \#3274. nmlsconsumeraccess.org. All loans subject to underwriter approval. Terms and conditions apply, subject to change without notice. For more licensing information, please visit [Licensing.](https://www.guildmortgage.com/licensing/){: target="_blank" rel="noopener"}*

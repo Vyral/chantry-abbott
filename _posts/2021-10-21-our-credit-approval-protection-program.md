@@ -24,7 +24,7 @@ We’ve all heard horror stories of delays, declined files, and changed programs
 
 {% include pullquote.html %}
 
-One thing we like to do differently is our Credit Approval Protection Program. **With this program, we fully underwrite your file before you even start your home search.** The mortgage will still take 30 days to fund, but we carve out the first two weeks to put in the extra effort to know that your approval is 100% good.&nbsp;
+One thing we like to do differently is our **[Credit Approval Protection Program](https://www.guildmortgage.com/homebuyer-protection/){: target="_blank" rel="noopener"}**. **With this program, we fully underwrite your file before you even start your home search.** The mortgage will still take 30 days to fund, but we carve out the first two weeks to put in the extra effort to know that your approval is 100% good.&nbsp;
 
 Our Credit Approval Protection Program helps you make a strong offer to the seller with a quick closing deadline. You can remove financing contingencies and have the peace of mind that the leg work on your loan is basically done.
 

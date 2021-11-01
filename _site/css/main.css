@@ -1650,7 +1650,7 @@ body {
           animation: 1s ease-in-out fadein; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "GuildCircular-Medium", GuildCircular-Medium;
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
   font-weight: 200;
   margin: 1rem 0; }
 
@@ -2660,14 +2660,14 @@ form select {
   text-align: center; }
 
 #letterhead {
-  font-family: "GuildCircular-Medium", GuildCircular-Medium;
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
   font-weight: 400;
   margin: 1rem 0;
   font-size: 2.5rem;
   text-transform: uppercase; }
 
 #letterhead-title {
-  font-family: "GuildCircular-Medium", GuildCircular-Medium;
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
   font-weight: 600;
   margin-top: 1rem;
   margin-bottom: 1rem;

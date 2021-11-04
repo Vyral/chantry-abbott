@@ -33,3 +33,5 @@ Most homebuyers think you have to have a lot of money in the bank or come in wit
 **5\. Gifted money**. This bonus option is to simply ask for cash gifts to use as a down payment. Let’s say that you’re having a wedding. Instead of asking for gifts, you could ask for cash instead.
 
 We would love to help you with any questions you have. If you’re concerned about qualifying or your credit score is a little low, we can make a plan to solve that. Even if you’re not planning on buying for a while, we’d love to connect with you now and build you a roadmap. Feel free to call, email, or schedule a time to meet us here.
+
+—<br>*NMLS ID \#309670, I am authorized to do business in the state of Utah. Guild Mortgage Company; Equal Housing Opportunity; NMLS \#3274. nmlsconsumeraccess.org. All loans subject to underwriter approval. Terms and conditions apply, subject to change without notice. For more licensing information, please visit [Licensing.](https://www.guildmortgage.com/licensing/){: target="_blank" rel="noopener"}*

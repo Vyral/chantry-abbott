@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/taxes-yt.jpg
-youtube_code: fA8-Cb4wPqI
+youtube_code: KukY3M6IS5Q
 ---
 {% include youtube.html %}
 
@@ -28,10 +28,10 @@ There are three things you must do to make your home a primary home in the count
 
 **1\. You have to have a Utah driver’s license with the same address as the house**. If you already have a Utah driver’s license, you can simply change the address online.
 
-**2\. At closing, you have to fill out a form stating that the home is your primary residence and provide it to the Washington County assessor’s office.** Hopefully, your title company will have addressed this with you during your home-buying process. If you haven’t already, **[click here](https://obweb.washco.utah.gov/AppNet/UnityForm.aspx?key=UFKey){: target="_blank" rel="noopener"}** to fill out the form online.
+**2\. At closing, you have to fill out a form stating that the home is your primary residence and provide it to the Washington County assessor’s office.** Hopefully, your title company will have addressed this with you during your home-buying process. If you haven’t already, **[click here](https://obweb.washco.utah.gov/AppNet/UnityForm.aspx?d1=ARYeXTIbRaS7sWPqFG9pI%2f5O%2b0Ksx5D9AOrgNCT327kaJNsCeeAt5rHo0zSt4HRvt%2bL%2fuZPl2qJKY7eh0lQQV9WngVceie5kb1XDRL8MjjaTEUXiaCAEtDoFM4dN%2fcmcOHxtwYOBwdcru41C1IzshJk1WCKevY%2bnQ8JOHury6mRHEgYXnjAud8UZqrdvaIw%2ffZpApygb8%2bAY8BziCqKJhxict3Z294yoO4v4C3nv1k54){: target="_blank" rel="noopener"}** to fill out the form online.
 
-**3\. Make sure that the listed market value is correct.** If you think the market value shown on your bill is higher than you think, you can dispute the value with the county. Since you’ll need evidence, you may need to get an appraisal so that the county can see what your home’s actual value is; they can’t legally charge you more than the true value of your home.
+**3\. Make sure that the listed market value is correct.** If the market value shown on your bill is higher than you think, you can dispute the value with the county. Since you’ll need evidence, you may need to get an appraisal so that the county can see what your home’s actual value is; they can’t legally charge you more than the true value of your home.
 
-We hate to see our friends and family pay too much in property taxes, so if you have any questions or need any assistance, feel free to give us a call or send an email. We’d love to be a resource for you.
+We hate to see our friends and family pay too much in property taxes, so if you have any questions or need some assistance, feel free to give us a call or send an email. We’d love to be a resource for you.
 
 —<br>*NMLS ID \#309670, I am authorized to do business in the state of Utah. Guild Mortgage Company; Equal Housing Opportunity; NMLS \#3274. nmlsconsumeraccess.org. All loans subject to underwriter approval. Terms and conditions apply, subject to change without notice. For more licensing information, please visit&nbsp;[Licensing.](https://www.guildmortgage.com/licensing/){: target="_blank" rel="noopener"}*

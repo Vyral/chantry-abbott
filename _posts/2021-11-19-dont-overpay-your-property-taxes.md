@@ -33,3 +33,5 @@ There are three things you must do to make your home a primary home in the count
 **3\. Make sure that the listed market value is correct.** If you think the market value shown on your bill is higher than you think, you can dispute the value with the county. Since you’ll need evidence, you may need to get an appraisal so that the county can see what your home’s actual value is; they can’t legally charge you more than the true value of your home.
 
 We hate to see our friends and family pay too much in property taxes, so if you have any questions or need any assistance, feel free to give us a call or send an email. We’d love to be a resource for you.
+
+—<br>*NMLS ID \#309670, I am authorized to do business in the state of Utah. Guild Mortgage Company; Equal Housing Opportunity; NMLS \#3274. nmlsconsumeraccess.org. All loans subject to underwriter approval. Terms and conditions apply, subject to change without notice. For more licensing information, please visit&nbsp;[Licensing.](https://www.guildmortgage.com/licensing/){: target="_blank" rel="noopener"}*

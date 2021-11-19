@@ -28,7 +28,7 @@ There are three things you must do to make your home a primary home in the count
 
 **1\. You have to have a Utah driver’s license with the same address as the house**. If you already have a Utah driver’s license, you can simply change the address online.
 
-**2\. At closing, you have to fill out a form stating that the home is your primary residence and provide it to the Washington County assessor’s office.** Hopefully, your title company will have addressed this with you during your home-buying process. If you haven’t already, [click here](https://obweb.washco.utah.gov/AppNet/UnityForm.aspx?key=UFKey){: target="_blank" rel="noopener"} to fill out the form online.
+**2\. At closing, you have to fill out a form stating that the home is your primary residence and provide it to the Washington County assessor’s office.** Hopefully, your title company will have addressed this with you during your home-buying process. If you haven’t already, **[click here](https://obweb.washco.utah.gov/AppNet/UnityForm.aspx?key=UFKey){: target="_blank" rel="noopener"}** to fill out the form online.
 
 **3\. Make sure that the listed market value is correct.** If you think the market value shown on your bill is higher than you think, you can dispute the value with the county. Since you’ll need evidence, you may need to get an appraisal so that the county can see what your home’s actual value is; they can’t legally charge you more than the true value of your home.
 

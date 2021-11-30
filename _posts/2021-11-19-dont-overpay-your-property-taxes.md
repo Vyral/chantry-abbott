@@ -34,4 +34,4 @@ There are three things you must do to make your home a primary home in the count
 
 We hate to see our friends and family pay too much in property taxes, so if you have any questions or need some assistance, feel free to give us a call or send an email. We’d love to be a resource for you.
 
-—<br>*NMLS ID \#309670, I am authorized to do business in the state of Utah. Guild Mortgage Company; Equal Housing Opportunity; NMLS \#3274. nmlsconsumeraccess.org. All loans subject to underwriter approval. Terms and conditions apply, subject to change without notice. For more licensing information, please visit&nbsp;[Licensing.](https://www.guildmortgage.com/licensing/){: target="_blank" rel="noopener"}*
+—<br>*Please consult a tax advisor for more information. NMLS ID \#309670, I am authorized to do business in the state of Utah. Guild Mortgage Company; Equal Housing Opportunity; NMLS \#3274. nmlsconsumeraccess.org. All loans subject to underwriter approval. Terms and conditions apply, subject to change without notice. For more licensing information, please visit&nbsp;[Licensing.](https://www.guildmortgage.com/licensing/){: target="_blank" rel="noopener"}*

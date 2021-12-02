@@ -5,7 +5,8 @@ date: 2021-12-02 21:07:45
 tags:
   - Home Buyer Tips
 excerpt: Today’s affordable homes are why the market likely won’t crash.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chantry+Abbott/Videos/Are+Homes+Still+Affordable_.mp4
 pullquote: >-
   Are home prices in St. George becoming unaffordable and do you think the
   housing market will crash?
@@ -14,13 +15,13 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/homes-affordable-yt.jpg
 youtube_code: LCdBcWyoGZ4
-hidden: false
+hidden: true
 ---
 {% include youtube.html %}
 
 “Are home prices in St. George becoming unaffordable and do you think the housing market will crash?” We get asked this all the time. Today we’ll answer those questions and provide you with some supporting data.
 
-Home prices have certainly increased over the last two years. However, there's strong data to support why home prices are still strong. The mortgage industry is much different than it used to be. **Mortgages are much different from the way they were in 2005.** Back then, people were getting mortgages they shouldn’t have been able to qualify&nbsp; for.
+Home prices have certainly increased over the last two years. However, there's strong data to support why home prices are still strong. The mortgage industry is much different than it used to be. **Mortgages are much different from the way they were in 2005.** Back then, people were getting mortgages they shouldn’t have been able to qualify for.
 
 They had loan programs called “stated income” or “stated assets.” Basically, if you had a pulse and could tell the mortgage company how much money you made and how much you had in the bank, they'd give you a mortgage for a house that you probably couldn't afford the monthly payment on. That is no longer happening, and it hasn't happened since 2010. **Anybody getting a mortgage now has to document that they have the monthly income to support what that house payment is.**
 

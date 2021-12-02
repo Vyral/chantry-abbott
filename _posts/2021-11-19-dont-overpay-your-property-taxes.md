@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/taxes-yt.jpg
 youtube_code: KukY3M6IS5Q
+hidden: false
 ---
 {% include youtube.html %}
 

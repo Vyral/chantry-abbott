@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-down-payment-yt.jpg
 youtube_code: cvD6bH_wuLM
+hidden: false
 ---
 {% include youtube.html %}
 

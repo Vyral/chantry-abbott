@@ -13,6 +13,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /bigstock-home-real-estate-property-hand-299548006.jpg
 youtube_code:
+hidden: false
 ---
 Welcome\!
 

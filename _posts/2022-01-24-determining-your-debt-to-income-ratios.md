@@ -21,9 +21,9 @@ hidden: true
 
 People often ask us how they can learn how much house they can afford. Today I’ll show you how the math works so that you can make a plan to afford the home you truly want.
 
-In mortgage terms, affordability depends on your debt-to-income ratio. To find that, we look at your gross income before taxes, what your monthly payments would be, and any other monthly obligations you have in terms of credit, such as car or student loan payments. Once we have all that information, we’ll turn it into a percentage.
+**In mortgage terms, affordability depends on your debt-to-income ratio.** To find that, we look at your gross income before taxes, what your monthly payments would be, and any other monthly obligations you have in terms of credit, such as car or student loan payments. Once we have all that information, we’ll turn it into a percentage.
 
-There are actually two debt-to-income ratios that mortgage lenders use. Here’s an example to show you how they work: Suppose you get $5,000 a month in gross income. To find your housing ratio (or front ratio), we’ll take your monthly house payment as a percentage of your income. To find your total debt-to-income ratio (or back-end ratio), we’ll consider all your debts as a percentage of your income.
+There are actually two debt-to-income ratios that mortgage lenders use. Suppose you get $5,000 a month in gross income. To find your housing ratio (or front ratio), we’ll take your monthly house payment as a percentage of your income. To find your total debt-to-income ratio (or back-end ratio), we’ll consider all your debts as a percentage of your income.
 
 {% include pullquote.html %}
 
